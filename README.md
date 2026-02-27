@@ -1,0 +1,1 @@
+Scripts to compute Reiner–Rivlin droplet migration under thermocapillary forcing and surfactant effects. Produces migration velocity and flow/circulation fields from the associated study, and supports parameter sweeps over key nondimensional groups.
